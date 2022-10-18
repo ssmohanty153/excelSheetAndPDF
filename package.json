@@ -1,0 +1,19 @@
+{
+  "name": "pdfconveterandexcelsheetread",
+  "version": "1.0.0",
+  "description": "usingforpdfandexcelsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssmohanty153/excelSheetAndPDF.git"
+  },
+  "author": "subhransu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssmohanty153/excelSheetAndPDF/issues"
+  },
+  "homepage": "https://github.com/ssmohanty153/excelSheetAndPDF#readme"
+}
